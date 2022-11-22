@@ -1,5 +1,5 @@
 # DIO - Trilha .NET - Programação orientada a objetos
-www.dio.me
+[Digital Innovation One](www.dio.me)
 
 ## Desafio de projeto
 Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de orientação a objetos, da trilha .NET da DIO.
@@ -19,4 +19,4 @@ Você deve criar as suas classes de acordo com o diagrama abaixo:
 3. O método **InstalarAplicativo** deve ser sobrescrito na classe Nokia e iPhone, pois ambos possuem diferentes maneiras de instalar um aplicativo.
 
 ## Solução
-O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+Código implementado seguindo conhecimentos disponibilizados pelo professor ***[Leonardo Buta](https://github.com/leonardo-buta)*** na plataforma de ensino e oportunidades ***[Digital Innovation One](www.dio.me)***
